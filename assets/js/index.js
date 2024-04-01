@@ -5,10 +5,10 @@
     { src: "assets/imgs/folio-3.jpg", category: "Photoshop" },
     { src: "assets/imgs/folio-4.jpg", category: "Logo Design" },
     { src: "assets/imgs/folio-5.jpg", category: "Photoshop" },
-    { src: "assets/imgs/folio-3.jpg", category: "Graphic Design" },
-    { src: "assets/imgs/folio-3.jpg", category: "Illustration" },
-    { src: "assets/imgs/folio-3.jpg", category: "Web Design" },
-    { src: "assets/imgs/folio-3.jpg", category: "UI/UX Design" }
+    { src: "assets/imgs/folio-6.jpg", category: "Graphic Design" },
+    { src: "assets/imgs/folio-.jpg", category: "Illustration" },
+    { src: "assets/imgs/folio-.jpg", category: "Web Design" },
+    { src: "assets/imgs/folio-.jpg", category: "UI/UX Design" }
   ];
 
   // Function to generate HTML for portfolio items
@@ -34,3 +34,11 @@
 
   // Call the function to generate portfolio items
   generatePortfolioItems(portfolioItems);
+
+
+
+
+
+
+
+ 
